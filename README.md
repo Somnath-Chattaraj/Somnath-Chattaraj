@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somnath-Web-Developer
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Development and DSA
 - 🌱 I’m currently learning iOS developemenent
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me : email: somnathchattaraj5@gmail.com
